@@ -23,7 +23,7 @@
     <properties>
         <hadoop.version>2.6.0-cdh5.5.0</hadoop.version>
         <hbase.version>1.0.0-cdh5.5.0</hbase.version>
-        <hive.version>1.1.0-cdh5.16.99</hive.version>
+        <hive.version>2.3.4</hive.version>
         <kafka.version></kafka.version>
         <spark.version>1.6.0-cdh5.16.99</spark.version>
         <flink.version>1.8.0</flink.version>
