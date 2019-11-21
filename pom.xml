@@ -25,7 +25,7 @@
         <hbase.version>1.0.0-cdh5.5.0</hbase.version>
         <hive.version>1.1.0-cdh5.16.99</hive.version>
         <kafka.version></kafka.version>
-        <spark.version>1.6.0-cdh5.16.99</spark.version>
+        <spark.version>99.9.9</spark.version>
         <flink.version>1.8.0</flink.version>
         <json.version></json.version>
 
